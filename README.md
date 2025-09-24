@@ -7,8 +7,8 @@
 3. Provide a verification function that checks certificate authenticity.
 4. Users can verify the certificate by comparing the stored hash.
 ## Program:
-### Name : MATHAVAN V
-### Register Number : 212223110026
+### Name : YUGABHARATHI
+### Register Number : 212224230314
 
 ```
 // SPDX-License-Identifier: MIT
